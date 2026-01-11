@@ -1,0 +1,11 @@
+# Power BI temporary files
+*.tmp
+*.log
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Large raw backups
+*.bak
+*.zip
