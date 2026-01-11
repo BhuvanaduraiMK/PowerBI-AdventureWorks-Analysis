@@ -51,6 +51,12 @@ A SnowFlake schema data model was used:
 -Sub Dimension Tables: Product Category, Product Sub-Category
 
 ---
+Dashboard Overview
+
+![Dashboard Preview](Screenshot/DashBoard_overview.png)
+
+
+---
 
 How to Use
 1. Download the repository
